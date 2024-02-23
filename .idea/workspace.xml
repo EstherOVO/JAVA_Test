@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17912f09-0187-4da1-8142-84a8b3d7bcf9" name="Changes" comment="Java Test">
-      <change afterPath="$PROJECT_DIR$/src/Test01/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test01/ShoppingCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test01/MathUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test01/Test08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test01/ShoppingCart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test01/ShoppingCart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test01/Test07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test01/Test07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,24 +34,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Test01.executor": "Run",
-    "Application.Test02.executor": "Run",
-    "Application.Test03.executor": "Run",
-    "Application.Test04.executor": "Run",
-    "Application.Test05.executor": "Run",
-    "Application.Test06.executor": "Run",
-    "Application.Test07.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/JAVA_Test/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Test01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test07.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/admin/IdeaProjects/JAVA_Test/src/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Test01" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -100,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708656646774</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Java Test">
+      <option name="closed" value="true" />
+      <created>1708658926187</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708658926188</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

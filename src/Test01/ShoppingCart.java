@@ -2,12 +2,12 @@ package Test01;
 
 import java.text.DecimalFormat;
 
-public class ShoppingCart2 {
+public class ShoppingCart {
 
     private Item[] items;
     private int itemCount;
 
-    public ShoppingCart2() {
+    public ShoppingCart() {
         items = new Item[10];
     }
 
@@ -30,11 +30,12 @@ public class ShoppingCart2 {
     }
 
     public void getTotal() {
+        DecimalFormat format = new DecimalFormat("###,###");
         int sum = 0;
         for (int i = 0; i < itemCount; i++) {
             sum += items[i].getSum();
         }
 
-        System.out.println("▣ 최종 가격 : " + sum);
+        System.out.println("▣ 최종 가격 : " + format.format(sum) + "원");
     }
 }
