@@ -18,20 +18,20 @@ public class Test02 {
 
         switch (operator) {
             case "+":
-                System.out.println("합 : " + (firstNumber + secondNumber));
+                System.out.println("· 합 : " + (firstNumber + secondNumber));
                 break;
             case "-":
-                System.out.println("차 : " + (firstNumber - secondNumber));
+                System.out.println("· 차 : " + (firstNumber - secondNumber));
                 break;
             case "*":
-                System.out.println("곱 : " + (firstNumber * secondNumber));
+                System.out.println("· 곱 : " + (firstNumber * secondNumber));
                 break;
             case "/":
                 if (secondNumber == 0) {
                     System.out.println("0으로 나눌 수 없습니다.");
                     break;
                 } else {
-                    System.out.println("몫 : " + (firstNumber / secondNumber));
+                    System.out.println("· 몫 : " + (firstNumber / secondNumber));
                     break;
                 }
             default:
