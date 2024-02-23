@@ -5,7 +5,7 @@ public class Test04 {
 
         int[][] arr = {{1, 2}, {3, 4}, {5, 6}, {7, 8}};
 
-        System.out.print("● 모든 2차원 정수 배열 : ");
+        System.out.print("§ 모든 2차원 정수 배열 : ");
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j < arr[i].length; j++) {
                 if (i == arr.length - 1 && j == arr[i].length - 1) {
@@ -23,6 +23,6 @@ public class Test04 {
             }
         }
 
-        System.out.println("\n● 2차원 배열의 총합 : " + sum);
+        System.out.println("\n§ 2차원 배열의 총합 : " + sum);
     }
 }
