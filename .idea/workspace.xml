@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17912f09-0187-4da1-8142-84a8b3d7bcf9" name="Changes" comment="Java Test">
-      <change afterPath="$PROJECT_DIR$/src/Test01/GameCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test01/ProductOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test01/Test04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test01/Test05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test01/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test01/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test01/ShoppingCart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test01/Test07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test01/Test07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,7 @@
     "Application.Test04.executor": "Run",
     "Application.Test05.executor": "Run",
     "Application.Test06.executor": "Run",
+    "Application.Test07.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -93,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708655245086</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java Test">
+      <option name="closed" value="true" />
+      <created>1708656646774</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708656646774</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
