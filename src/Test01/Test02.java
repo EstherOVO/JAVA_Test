@@ -13,7 +13,7 @@ public class Test02 {
         System.out.print("두 번째 숫자를 입력해 주세요 : ");
         double secondNumber = scanner.nextInt();
 
-        System.out.print("연산자를 입력해 주세요(+, -, *, / 중 입력) : ");
+        System.out.print("연산자를 입력해 주세요(\'+\', \'-\', \'*\', \'/\' 중 입력) : ");
         String operator = scanner.next();
 
         switch (operator) {
